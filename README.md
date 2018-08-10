@@ -30,6 +30,6 @@ console.log(platzom('sometemos')); //SoMeTeMoS
 
  - [Victor Marcano](https://twitter.com/victormarkno)
 
- ##licencia
+## licencia
 
  [MIT](https://opensource.org/licenses/MIT)
